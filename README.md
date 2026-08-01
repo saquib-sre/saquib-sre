@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Mohammed Saquib 👋
 
-<!--
-**saquib-sre/saquib-sre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Site Reliability Engineer | Kubernetes | GCP | Terraform | DevOps
 
-Here are some ideas to get you started:
+I'm a Site Reliability Engineer with 8+ years of experience building, automating, and operating cloud-native platforms. I enjoy solving production issues, improving reliability, and automating infrastructure using Infrastructure as Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies
+
+- Kubernetes (GKE)
+- Google Cloud Platform (GCP)
+- Terraform & Terragrunt
+- Docker
+- Helm
+- GitHub Actions & Jenkins
+- Istio Service Mesh
+- Datadog
+- Linux
+- Git
+- Bash
+
+### 🚀 What I'm Working On
+
+- Production-grade Kubernetes Platform
+- Terraform Infrastructure Modules
+- SRE Incident Runbooks
+- GitHub Actions CI/CD Pipelines
+- Monitoring & Observability
+- Platform Engineering Best Practices
+
+### 📂 Featured Repositories
+
+- terraform-gke-production
+- kubernetes-production
+- github-actions-cicd
+- observability-stack
+- sre-runbooks
+
+### 🌱 Currently Learning
+
+- Platform Engineering
+- AI for SRE
+- Advanced Kubernetes
+- GitOps (Argo CD)
+- OpenTelemetry
+
+### 📫 Connect With Me
+
+- LinkedIn: (Add your LinkedIn URL)
+- Email: mohammedsaquib715@gmail.com
+
+---
+
+*"Reliability is not a feature. It is the foundation."*
